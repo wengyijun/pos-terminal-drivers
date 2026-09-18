@@ -1,6 +1,6 @@
 Hello,this is a file about the mothers'dirvers.(updating)
 
-6412(n1)-all:
+6412(n1)-all drivers-solution:
 
 1,
 https://github.com/wengyijun/pos-terminal-drivers/releases/tag/N1of6412
@@ -22,3 +22,6 @@ https://mega.nz/file/0AtTiYSY#nuwkyJiQkip_dHlVQN7dZK_L0agxAA_Yl3q14iKgm3g
 
 7,
 https://mega.nz/file/YZcmUDIA#_dVV4WvRH98fo4fWv0INbX3S-AU0qzeZ1CYJHi0sx94
+
+8,
+https://mega.nz/file/RN1UmYIb#nnscEVZBLQus8zzWhNJgxWKcP0irVOAsuk5vLRGCMes
