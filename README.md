@@ -8,3 +8,6 @@ https://mega.nz/file/inIlGSTI#f8aDfiHa8r_rZlKYSzZvkYaxXo65KSXCG79U-qraXKI
 
 tablet stand:
 https://github.com/wengyijun/pos-terminal-drivers/blob/main/tablet%20stand%20(q)
+
+1235 motherboard printer drivers:
+https://github.com/wengyijun/pos-terminal-drivers/blob/main/Printer_Driver_v2.5.4.6.exe
