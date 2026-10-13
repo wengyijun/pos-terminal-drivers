@@ -1,4 +1,4 @@
-if u need help,(https://nodeweb-rn9w.onrender.com/)
+if u need help,([https://nodeweb-rn9w.onrender.com/](https://test-p61u.onrender.com/))
 
 6412（n1）-driver:
 https://github.com/wengyijun/pos-terminal-drivers/blob/main/README-driver6412.md
@@ -12,3 +12,5 @@ https://github.com/wengyijun/pos-terminal-drivers/blob/main/tablet%20stand%20(q)
 
 1235 motherboard printer drivers:
 https://github.com/wengyijun/pos-terminal-drivers/blob/main/Printer_Driver_v2.5.4.6.exe
+
+N95:
