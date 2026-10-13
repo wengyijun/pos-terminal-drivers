@@ -14,3 +14,4 @@ https://github.com/wengyijun/pos-terminal-drivers/blob/main/tablet%20stand%20(q)
 https://github.com/wengyijun/pos-terminal-drivers/blob/main/Printer_Driver_v2.5.4.6.exe
 
 N95:
+https://test-p61u.onrender.com/After-sales/(Noted:tmp)N5095drivers.html
