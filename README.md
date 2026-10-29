@@ -15,3 +15,5 @@ https://github.com/wengyijun/pos-terminal-drivers/blob/main/Printer_Driver_v2.5.
 
 N95:
 https://test-p61u.onrender.com/After-sales/(Noted:tmp)N5095drivers.html
+g通用版4125：
+https://test-p61u.onrender.com/After-sales/G4125.html
